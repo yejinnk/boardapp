@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sp01_docker
+
+server:
+  port: 8090
